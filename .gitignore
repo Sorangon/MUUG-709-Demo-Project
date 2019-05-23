@@ -10,9 +10,7 @@ Assets/AmplifyShaderEditor/
 Assets/Demigiant/
 Assets/DefaultContent/
 Assets/CameraTools/
-ProjectSettings/
 Logs/
-Packages/
 
 # Visual Studio cache directory
 .vs/
@@ -47,3 +45,4 @@ sysinfo.txt
 
 # Crashlytics generated file
 Assets/StreamingAssets/crashlytics-build.properties
+Assets/CameraTools.meta
